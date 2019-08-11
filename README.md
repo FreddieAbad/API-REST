@@ -2,6 +2,7 @@
 
 ## English Version:
 The following project indicates two methods to create a REST API, the first method is performed with the Use of Java EE / Web Services and the second method is performed with NodeJS.
+
 Article on Medium: https://link.medium.com/CtrCIvVD4Y
 
 ## Version en Español:
